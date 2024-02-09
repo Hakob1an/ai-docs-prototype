@@ -52,10 +52,3 @@ Designed with simplicity in mind, it aims to provide an intuitive environment fo
 - **Close the Document**: Click the "Close" button to close the current document. You will be asked for confirmation.
 - **Search for a Word**: Enter the word in the search box and click the "Search" button to find it within the document.
 
-## Contributing
-
-Contributions to the Basic Text Editor are welcome! Please feel free to submit issues, pull requests, or suggestions to improve the application.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
